@@ -1,5 +1,5 @@
 # Site settings
-title: Your awesome title
+title: The Charactory
 email: charactory@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -12,3 +12,5 @@ github_username:  charactory
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+paginate: 3
